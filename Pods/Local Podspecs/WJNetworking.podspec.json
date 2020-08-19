@@ -1,0 +1,22 @@
+{
+  "name": "WJNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of WJNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangjie322/WJNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangjie322": "wangjie322@ke.com"
+  },
+  "source": {
+    "git": "https://github.com/wangjie322/WJNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WJNetworking/Classes/**/*"
+}
