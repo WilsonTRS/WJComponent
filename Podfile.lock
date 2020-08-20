@@ -3,27 +3,24 @@ PODS:
   - SDWebImage (5.8.4):
     - SDWebImage/Core (= 5.8.4)
   - SDWebImage/Core (5.8.4)
-  - WJNetworking (0.1.0)
+  - WJNetworking (0.2.0)
 
 DEPENDENCIES:
   - Masonry
   - SDWebImage (~> 5.8.0)
-  - WJNetworking (from `Lib/WJNetworking`)
+  - WJNetworking
 
 SPEC REPOS:
   trunk:
     - Masonry
     - SDWebImage
-
-EXTERNAL SOURCES:
-  WJNetworking:
-    :path: Lib/WJNetworking
+    - WJNetworking
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
-  WJNetworking: 44cf4939459ec6b0e3663b973c9e5df0420b8831
+  WJNetworking: 502b99edacbb17431b8290c12388eca2b0ee9081
 
-PODFILE CHECKSUM: 3c8c497ae5f7299bc3a3781893972b63654d5771
+PODFILE CHECKSUM: b9aded91c4b2e26313262f8d1e05a5728098d2da
 
 COCOAPODS: 1.9.3

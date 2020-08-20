@@ -7,8 +7,7 @@ target 'Component' do
 
   pod 'Masonry'
   pod 'SDWebImage', '~> 5.8.0'
-  pod 'WJNetworking', :path => 'Lib/WJNetworking'
-  
+  pod 'WJNetworking'
   # Pods for Component
 
   target 'ComponentTests' do
